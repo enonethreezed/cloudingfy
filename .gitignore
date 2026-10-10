@@ -1,1 +1,4 @@
 .api
+proxy.conf
+.state
+.proxy-cert.pem
