@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.png" alt="CloudingFy - Bring my docker pulls back" width="640">
+</p>
+
 # cloudingfy
 
 On-demand HTTPS proxy on [Clouding.io](https://clouding.io), driven by their API.
